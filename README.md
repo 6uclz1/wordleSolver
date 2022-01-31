@@ -1,0 +1,2 @@
+# wordleSolver
+simple tool.
